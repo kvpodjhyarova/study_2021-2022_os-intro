@@ -1,7 +1,7 @@
 ---
 ## Front matter
 lang: ru-RU
-title: Structural approach to the deep learning method
+title: Презентация по лабораторной работе №5
 author: |
 	Подъярова Ксения Витальевна (группа: НПМбд-02-21)
 institute: |
